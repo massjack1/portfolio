@@ -400,7 +400,10 @@
     padding: 2rem 0;
     text-align: center;
   }
-   
+   .portfolio-item h3 {
+    font-size: 18px;
+    font-weight: 500;
+   }
   .portfolios {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
