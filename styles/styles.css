@@ -395,7 +395,9 @@
   .timeline .timeline-item p {
     color: var(--color-grey-2);
   }
-   
+  .img {
+    width: 100%;
+  } 
   .port-text {
     padding: 2rem 0;
     text-align: center;
